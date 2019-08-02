@@ -1,0 +1,8 @@
+{
+    "package_name":"github.com/zainul/arkana-etalase",
+    "include_user": true,
+    "error_code_service":"E01",
+    "service_name":"user-service",
+    "work_dir":"/home/nakama/go",
+    "connection_db":"this one for build reverse script"
+}
